@@ -1,7 +1,7 @@
 <h1 align="center">Blockscout frontend</h1>
 
 <p align="center">
-    1
+    12
     <span>Frontend application for </span>
     <a href="https://github.com/blockscout/blockscout/blob/master/README.md">Blockscout</a>
     <span> blockchain explorer</span>
